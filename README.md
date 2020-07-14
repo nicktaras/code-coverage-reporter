@@ -9,6 +9,7 @@ Development Road Map:
 
 Usage:
 
-Include a list of web urls inside the mock.json file
-run `node index.js` to run the node process
+- Include a list of web urls inside the mock.json file
+
+- run `node index.js` to run the node process
 
