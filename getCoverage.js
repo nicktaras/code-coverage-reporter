@@ -15,3 +15,5 @@ const getCoverage = async (data, itemIndex, output) => {
     }
   })
 }
+
+module.exports = getCoverage;
